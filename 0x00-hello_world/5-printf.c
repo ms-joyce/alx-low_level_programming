@@ -2,7 +2,7 @@
 
 /**
  *
- * main - Print
+ * main - Printing
  *
  * Return: Always 0 (Success)
  */
