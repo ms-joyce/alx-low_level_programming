@@ -2,10 +2,7 @@
 
 /**
  *
- * main - Prints given text
- *
- * Description: using the main function
- * this program prints "with proper grammar, but the outcome is a piece of art,"
+ * Description: main - Prints text
  *
  * Return: Always 0 (Success)
  */
