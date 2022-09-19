@@ -4,7 +4,7 @@
 /**
  * main - Prints hexadecimal numbers
  *
- * Returrn: Always (Success)
+ * Return: Always (Success)
  */
 int main(void)
 {
