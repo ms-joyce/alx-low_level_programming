@@ -3,7 +3,7 @@
 /**
  * main - Print lowercase alphabet without q and e
  *
- * Results: Always (Success)
+ * Return: Always (Success)
  */
 int main(void)
 {
