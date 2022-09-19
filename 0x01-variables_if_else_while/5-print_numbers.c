@@ -14,8 +14,7 @@ int main(void)
 	{
 		putchar(digit);
 	}
-
 	putchar('\n');
 
-	retun (0);
+	return (0);
 }
