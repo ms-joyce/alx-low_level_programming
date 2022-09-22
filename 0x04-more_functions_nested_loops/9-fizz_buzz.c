@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main: Print numbers from 1 to 100
+ * main - Print numbers from 1 to 100
  * Return: Always success
  */
 int main(void)
@@ -32,6 +32,6 @@ int main(void)
 		}
 	}
 	printf("\n");
-	
+
 	return (0);
 }
