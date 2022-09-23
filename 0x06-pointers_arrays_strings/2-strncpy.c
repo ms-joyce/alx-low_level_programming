@@ -5,8 +5,7 @@
  * should work identically to strncpy
  * @dest: buffer storing the string copy
  * @src:the source string
- * @n: max byte 
- *
+ * @n: max byte
  * Return: Copied string
  */
 
